@@ -23,7 +23,7 @@
 
 ### 🌟 Featured Projects
 
-- 🛵 [ZODi](https://zodi.vn) — Multi-service super app for rural Vietnam  
+- 🛵 [ZODi](https://zodicorp.vn) — Multi-service super app for rural Vietnam  
 - ⚡ [Trạm Điện Xanh](https://tramdienxanh.com) — Real-time EV charger management system  
 - 🎯 [Goladi](https://goladivn.com.vn) — Franchise-based logistics & ride-hailing and food platform
 - 🍔 [GoQuangTri](https://goquangtri.com) — Ride-hailing platform & Delivery & Food
