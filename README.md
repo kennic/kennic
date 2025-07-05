@@ -12,7 +12,7 @@
 
 - ⚙️ 18+ years in software engineering — from hands-on code to high-level architecture  
 - 🧠 Product thinker & system strategist — I build scalable, resilient platforms  
-- 📱 Tech stack: **Swift**, **Dart (Flutter)**, **Node.js**, **MongoDB**, **Docker**, **n8n**, and more  
+- 📱 Tech stack: **Swift**, **Dart (Flutter)**, **Node.js**, **MongoDB**, **Docker**, **n8n**, **AWS** and more  
 - 🌐 Creator of:
   - **Zodi** – All-in-one service platform (ride-hailing, food, delivery, community)
   - **Goladi** – Commission-free ride-hailing & delivery & food
