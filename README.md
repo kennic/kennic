@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador">
 
-# 👋 Hi, I'm Nam
+# 👋 Hi, I'm Nam Kennic
 
-🚀 CTO @ Zodi • Builder of multi-service platforms  
+🚀 CTO @ Appora, Zodi, Goladi • Builder of multi-service platforms  
 🏗️ Passionate about solving real-world problems with technology  
 📍 Based in Vietnam — Building the future of service-hailing, logistics, and more
 
