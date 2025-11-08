@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nam Kennic
 
-🚀 CTO @ Appora, Zodi, Goladi • Builder of multi-service platforms  
+🚀 CTO. Builder of multi-service platforms  
 🏗️ Passionate about solving real-world problems with technology  
 📍 Based in Vietnam — Building the future of service-hailing, logistics, and more
 
