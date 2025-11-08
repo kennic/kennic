@@ -17,18 +17,7 @@
   - **Zodi** – All-in-one service platform (ride-hailing, food, delivery, community)
   - **Goladi** – Commission-free ride-hailing & delivery & food
   - **GoQuangTri** – Ride-hailing & delivery & Food Delivery operating in Quảng Trị province
-  - **Trạm Điện Xanh** – EV charging network across provinces
-
----
-
-### 🌟 Featured Projects
-
-- 🛵 [ZODi](https://zodicorp.vn) — Multi-service super app for rural Vietnam  
-- ⚡ [Trạm Điện Xanh](https://tramdienxanh.com) — Real-time EV charger management system  
-- 🎯 [Goladi](https://goladivn.com.vn) — Franchise-based logistics & ride-hailing and food platform
-- 🍔 [GoQuangTri](https://goquangtri.com) — Ride-hailing platform & Delivery & Food
-
----
+  - **Trạm Điện Xanh** – EV charging network across 
 
 ### 📫 Let's Connect
 
