@@ -17,7 +17,6 @@
   - **YourSpa** – Spa Management Platform
   - **Wayese** – All-in-one service platform (ride-hailing, food, delivery)
   - **Goladi** – Commission-free ride-hailing & delivery & food
-  - **GoQuangTri** – Ride-hailing & delivery & Food Delivery operating in Quảng Trị province
   - **Trạm Điện Xanh** – EV charging network across 
 
 ### 📫 Let's Connect
